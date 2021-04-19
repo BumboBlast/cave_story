@@ -12,3 +12,8 @@ CAVE STORY REMAKE
 						split up headerfiles/ implementation files (Whatever that means)
 						create a graphics class, then call it from main (for now i guess)
 
+next time:	make a class that holds the game loop
+				- Listen for events in the game loop
+				- inputs for commands to close the window
+				- make a skeleton for the game class
+

@@ -12,8 +12,16 @@ CAVE STORY REMAKE
 						split up headerfiles/ implementation files (Whatever that means)
 						create a graphics class, then call it from main (for now i guess)
 
-next time:	make a class that holds the game loop
+			next time:	make a class that holds the game loop
 				- Listen for events in the game loop
 				- inputs for commands to close the window
 				- make a skeleton for the game class
+
+20-apr-21: 	added input class (can close the window with ESC now!)
+				- Events (input, closing the window, etc)
+				- Limiting the FPS
+				- Game Class
+
+			Details:	game runs at 50 fps
+			
 

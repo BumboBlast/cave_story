@@ -23,5 +23,15 @@ CAVE STORY REMAKE
 				- Game Class
 
 			Details:	game runs at 50 fps
+
+21-apr-21:	limited FPS (50fps)
+			modified Graphics class (can now draw to the screen)
 			
+			broke it some how (idk how to fix it)
+
+			):
+
+			guess ill start over )):
+
+			Details:	all sprites are scaled by 2 (i think)
 

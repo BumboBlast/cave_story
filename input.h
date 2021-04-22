@@ -1,4 +1,4 @@
-#ifndef INPUT_H		//header guard
+#ifndef INPUT_H		// header guard
 #define INPUT_H		// this ensures that we dont define functions more than once in main.
 					
 #include <SDL.h>
